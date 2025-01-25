@@ -29,6 +29,10 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.navi-link:hover,
+.navi-link:focus {
+  color: #404bbf;
+}
 .adres-mail {
   font-weight: 400;
   font-size: 16px;
@@ -36,12 +40,20 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.adres-mail:hover,
+.adres-mail:focus {
+  color: #404bbf;
+}
 .adres-tel {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.adres-tel:hover,
+.adres-tel:focus {
+  color: #404bbf;
 }
 .hero {
   background: #2e2f42;
@@ -62,6 +74,10 @@ ol {
   color: #fff;
   background: #4d5ae5;
   cursor: pointer;
+}
+.hero-button:hover,
+.hero-button:focus {
+  background: #404bbf;
 }
 .test-title {
   font-weight: 500;
