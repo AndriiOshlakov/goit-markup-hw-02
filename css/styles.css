@@ -137,17 +137,17 @@ ol {
   text-align: center;
   color: #2e2f42;
 }
-.job1-list {
+.portfoliio-list {
   background: #fff;
 }
-.job1-name {
+.portfolio-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.job1-text {
+.portfolio-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -156,20 +156,6 @@ ol {
 }
 .job2-list {
   background: #fff;
-}
-.job2-name {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-.job2-text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
 }
 .footer {
   background: #2e2f42;
