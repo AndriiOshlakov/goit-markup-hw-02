@@ -36,26 +36,15 @@ ol {
 .adres {
   font-style: normal;
 }
-.adres-mail {
+.adres-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.adres-mail:hover,
-.adres-mail:focus {
-  color: #404bbf;
-}
-.adres-tel {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-.adres-tel:hover,
-.adres-tel:focus {
+.adres-link:hover,
+.adres-link:focus {
   color: #404bbf;
 }
 .hero {
